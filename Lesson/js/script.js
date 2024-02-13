@@ -11,8 +11,8 @@
 // let element = document.querySelector("li");
 // console.log(element);
 
-// let element = document.getElementsByTagName("div");
-// console.log(element);
+// let elementDiv = document.getElementsByTagName("div");
+// console.log(elementDiv);
 
 // let textHidden = document.getElementById("textHidden");
 // textHidden.hidden = true;
@@ -54,6 +54,7 @@
 // console.log(image.hasAttribute("src"));
 
 // console.log(image.getAttribute("src"));
+
 
 // const item = document.createElement("a");
 // item.href = "#";
